@@ -1,0 +1,11 @@
+{
+	"name": "created-handlebars-example-minimal",
+	"description": "Example repository created from create-handlebars-example-minimal. 💕",
+	"version": "0.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bingo-examples/created-handlebars-example-minimal.git"
+	},
+	"main": "index.js",
+	"type": "module"
+}
